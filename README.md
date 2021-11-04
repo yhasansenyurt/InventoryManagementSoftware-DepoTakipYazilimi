@@ -39,6 +39,7 @@ Junk List:
 
 # General Information about the Program
 
+- Files must be placed as they are on the GitHub when you want to download and try the program.
 - Tkinter and pandas libraries are mainly used.
 - Program keeps log records. Logs.log file must be in the same directory as .py file. Contents of log records are date of operation, person who made the operation (this info comes from username of computer), list name, operation name, properties of product which is in the process.
 - Program uses excel file as save files. When you want to use these excel files which are located in 'Tablolar' file, please use copies of them. Do not change original excel files.
