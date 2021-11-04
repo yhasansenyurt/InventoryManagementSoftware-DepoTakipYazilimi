@@ -2,6 +2,7 @@
 Inventory Management Software for ISTAÇ A.Ş.
 
 Download as windows application: https://drive.google.com/file/d/1WabOUUamUYsVMFBMRMcd64geoBok6N8H/view?usp=sharing
+
 Please ReadMe.txt after extracting 'Windows Application' file in the .zip file.
 
 
