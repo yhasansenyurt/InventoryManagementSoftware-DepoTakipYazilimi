@@ -37,3 +37,7 @@ Junk List:
 
 
 
+# General Information about the Program
+
+- Tkinter and pandas libraries are mainly used.
+- Program keeps log records.
