@@ -13,13 +13,27 @@ Inventory List:
 - Properties of product (columns of inventory table) are product id, product name, amount of product, measurement unit and explanation of product.
 - Functions of inventory list are adding nonregistered product, deleting nonregistered product, registering product to someone, editing nonregistered product, filtering products and exporting the list as excel file.
 
+
+![MainScreen](https://user-images.githubusercontent.com/80919382/140299537-688877b7-08ef-4044-bf41-be7fc35c42fb.PNG)
+
+
 Registered Product List:
 - Products belong to some employees in this list.
 - Properties of product (columns of registered product table) are product id, product name, amount of product, measurement unit, employee who gives product to someone, employee who receives the product, date of the operation and explanation of product.
 - Functions of registered product list are deleting registered product, taking product from employee back to inventory, editing registered product, filtering products (by their name or by searching employee name who gives or recieves the product) and exporting the list as excel file.
 
+
+![RegisteredProduct](https://user-images.githubusercontent.com/80919382/140299557-69e36ee6-6f13-40ae-8ddf-4ac21a942222.PNG)
+
+
+
 Junk List:
 - This list keeps records of deleted product.
 - Properties of deleted product (columns of junk table) are product id, product name, amount of product, measurement unit and explanation of the reason why the product is deleted.
 - Functions of junk list are filtering products, exporting the list as excel file and cleaning the table (removing all items of table).
+
+
+![Junk](https://user-images.githubusercontent.com/80919382/140299581-47a57049-14db-4899-b96f-46115a8c25aa.PNG)
+
+
 
