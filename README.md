@@ -40,4 +40,6 @@ Junk List:
 # General Information about the Program
 
 - Tkinter and pandas libraries are mainly used.
-- Program keeps log records.
+- Program keeps log records. Logs.log file must be in the same directory as .py file. Contents of log records are date of operation, person who made the operation (this info comes from username of computer), list name, operation name, properties of product which is in the process.
+- Program uses excel file as save files. When you want to use these excel files which are located in 'Tablolar' file, please use copies of them. Do not change original excel files.
+- Program runs online at ISTAC AS. normally. I used their local network to save the data files. Every computer which is connected to their server can use the program at the same time. They can see the changes which is done by another computer. This version is local version of the program.
