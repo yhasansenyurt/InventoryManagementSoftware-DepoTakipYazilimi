@@ -1,6 +1,9 @@
 # InventoryManagementSoftware-DepoTakipYazilimi
 Inventory Management Software for ISTAÇ A.Ş.
 
+Download as windows application: https://drive.google.com/file/d/1WabOUUamUYsVMFBMRMcd64geoBok6N8H/view?usp=sharing
+Please ReadMe.txt after extracting 'Windows Application' file in the .zip file.
+
 
 ![MainScreen](https://user-images.githubusercontent.com/80919382/140296498-88e2331e-767b-4d6f-9382-d26e8326a857.PNG)
 
