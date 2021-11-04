@@ -9,4 +9,7 @@ Inventory Management Software for ISTAÇ A.Ş.
 The program consists of three different parts: Inventory List, Registered Product List and Junk List.
 
 Inventory List:
-- 
+- Properties of product are product id, product name, amount of product, measurement unit and explanation of product.
+- Functions of inventory list are adding nonregistered product, deleting nonregistered product, registering product to someone, editing nonregistered product, filtering products and exporting the list as excel file.
+
+Registered Product List:
